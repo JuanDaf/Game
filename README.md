@@ -1,2 +1,2 @@
 # Game
-Juago python
+Juego python
